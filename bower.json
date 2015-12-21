@@ -1,0 +1,24 @@
+{
+  "name": "hx-highlight",
+  "main": "index.html",
+  "version": "1.0.1",
+  "description": "Hubert's Javascript Application",
+  "moduleType": [],
+  "authors": [
+    "Hubert"
+  ],
+  "keywords": [
+    "hx-highlight",
+    "hx-js",
+    "hxjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
